@@ -4,9 +4,9 @@ using Xamarin.Forms.Xaml;
 namespace XamlTest.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class LoginPage : ContentPage
+    public partial class AbsoluteLayoutPage : ContentPage
     {
-        public LoginPage()
+        public AbsoluteLayoutPage()
         {
             InitializeComponent();
         }
