@@ -31,7 +31,7 @@
                 <Button Text="Add $7.99 Credit" 
                         BackgroundColor="#1695a3" 
                         BorderRadius="15" 
-                        HeightRequest="30" 
+                        HeightRequest="50" 
                         FontSize="15" 
                         FontAttributes="Bold" 
                         TextColor="White" />

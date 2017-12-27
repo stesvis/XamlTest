@@ -8,7 +8,7 @@ namespace XamlTest
         {
             InitializeComponent();
 
-            MainPage = new Views.SkypeCreditRelativePage();
+            MainPage = new Views.LoginPage();
         }
 
         protected override void OnStart()
